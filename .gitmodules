@@ -1,0 +1,6 @@
+[submodule "mern-food-ordering-app-backend"]
+	path = mern-food-ordering-app-backend
+	url = https://github.com/Maestro1982/mern-food-ordering-app-backend
+[submodule "mern-food-ordering-app-frontend"]
+	path = mern-food-ordering-app-frontend
+	url = https://github.com/Maestro1982/mern-food-ordering-app-frontend
